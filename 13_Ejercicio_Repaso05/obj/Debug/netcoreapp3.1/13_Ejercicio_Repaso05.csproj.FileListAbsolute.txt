@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/bin/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/bin/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/bin/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/bin/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/bin/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/obj/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/obj/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/obj/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/obj/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/obj/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/obj/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/13_Ejercicio_Repaso05/obj/Debug/netcoreapp3.1/13_Ejercicio_Repaso05.genruntimeconfig.cache
