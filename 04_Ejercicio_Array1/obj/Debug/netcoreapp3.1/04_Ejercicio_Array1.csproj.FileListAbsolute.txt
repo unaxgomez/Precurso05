@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/bin/Debug/netcoreapp3.1/04_Ejercicio_Array1.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/bin/Debug/netcoreapp3.1/04_Ejercicio_Array1.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/bin/Debug/netcoreapp3.1/04_Ejercicio_Array1.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/bin/Debug/netcoreapp3.1/04_Ejercicio_Array1.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/bin/Debug/netcoreapp3.1/04_Ejercicio_Array1.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/obj/Debug/netcoreapp3.1/04_Ejercicio_Array1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/obj/Debug/netcoreapp3.1/04_Ejercicio_Array1.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/obj/Debug/netcoreapp3.1/04_Ejercicio_Array1.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/obj/Debug/netcoreapp3.1/04_Ejercicio_Array1.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/obj/Debug/netcoreapp3.1/04_Ejercicio_Array1.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/obj/Debug/netcoreapp3.1/04_Ejercicio_Array1.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/04_Ejercicio_Array1/obj/Debug/netcoreapp3.1/04_Ejercicio_Array1.genruntimeconfig.cache
