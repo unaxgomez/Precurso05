@@ -1,0 +1,12 @@
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/bin/Debug/netcoreapp3.1/07_Ejemplo_Length.deps.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/bin/Debug/netcoreapp3.1/07_Ejemplo_Length.runtimeconfig.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/bin/Debug/netcoreapp3.1/07_Ejemplo_Length.runtimeconfig.dev.json
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/bin/Debug/netcoreapp3.1/07_Ejemplo_Length.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/bin/Debug/netcoreapp3.1/07_Ejemplo_Length.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/obj/Debug/netcoreapp3.1/07_Ejemplo_Length.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/obj/Debug/netcoreapp3.1/07_Ejemplo_Length.AssemblyInfoInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/obj/Debug/netcoreapp3.1/07_Ejemplo_Length.AssemblyInfo.cs
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/obj/Debug/netcoreapp3.1/07_Ejemplo_Length.csproj.CoreCompileInputs.cache
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/obj/Debug/netcoreapp3.1/07_Ejemplo_Length.dll
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/obj/Debug/netcoreapp3.1/07_Ejemplo_Length.pdb
+/Users/unaxgomez/Desktop/BOOTCAMP/PRECURSO/EJERCICIOS/05_Estructuras_De_Almacenamiento/07_Ejemplo_Length/obj/Debug/netcoreapp3.1/07_Ejemplo_Length.genruntimeconfig.cache
